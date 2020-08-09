@@ -1,0 +1,50 @@
+*****************
+LinkLax - Concept
+
+Browser extension, Program extension
+
+Change the default color of links
+
+- Depending on language
+- All
+
+http - Default=red (To warn the user that the site does not have a secure connection)
+https - Default=green (To tell the user that the site has a secure connection)
+en - Default=Blue (I don't know what to default this to)
+ru - Default=Turquiose (I don't know what to default this to)
+ja - Default=White with red in the middle or in the a (To resemble the flag of Japan)
+zh - Default=Red (I don't know what to default this to)
+ko - Default=Blue (I don't know what to default this to)
+haw - Default=Yellow (For the sand on the beaches of Hawaii)
+de - Default=Black (For the top of the German flag)
+eo - Default=White or Black (depending on dark/light mode preference, as these are the universal and default colors in the color spectrum, and Esperanto is designed to be a universal language.)
+es - Default=White (I don't know what to default this to)
+ar - Default=Green (The color of the flag of Saudi Arabia)
+se - Default=Blue (The main color of the Swedish flag)
+uk - Default=White (I don't know what to default this to)
+www - Default=blue (For the main color that makes up the world)
+file:/// Default=orange (For the color of an orange folder)
+.us - Default=Red, White, and Blue (For the colors of the flag of the United States of America)
+.uk - Default=Red, Blue, and white (For the colors of the British flag, reversed a bit to make it not exactly the same as the US flag)
+.ru - Default=White, blue, and red (For the colors of the modern Russian flag)
+.eu - Default=Blue, and yellow (For the colors of the European Union's flag)
+.com - Default=silver (I don't know what to default this to
+.org - Default=Navy (For the color I think of when I see/hear ".org")
+.net - Default=Cyan (For the color of a server light)
+.gov - Default=White (I don't know what to default this to)
+.io - Default=White (I don't know what to default this to)
+.gg - Default-Purple (To match the color of Discord)
+.su - Default=Red (To match the colors of the Soviet Union, if you were to even find a site with the .su domain)
+
+I originally planned for this to be a program language, but that was scrapped within the first minute of idea development. Making LinkLax a programming language would be way too much and completely unnecessary.
+
+Updates will be labeled as such:
+
+H0.x = Alpha releases
+H1.x = Beta releases
+H2.0.x = Full releases
+
+Codename: Hyperwater (HyperH2.0) not an O, hyper water is different from Earth water
+
+Idea drafted on August 9th 2020 by Sean Patrick Myrick
+*****************
