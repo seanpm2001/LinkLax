@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="90" height="40" font-family="Times New Roman,Liberation Serif" viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <a xlink:href="https://www.wikipedia.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <text x="448.9" y="163.1" fill="#0645ad" font-family="Times New Roman,Liberation Serif" font-size="200" stroke-width="10" text-anchor="middle">Wikipedia</text>
+ </a>
+ <path d="m43.64 229.5h812.82" fill="none" stroke="#0645ad" stroke-linecap="square" stroke-width="16.7"/>
+ <g fill="#fff" fill-rule="evenodd" stroke-width="7.7">
+  <path d="m581.37 343.59c0-2.61-.12-12.94-.12-12.94s-35.9-30.03-37.86-48.96c-1.96-18.94-1.31-57.45-1.31-57.45s.15-2.3-2.17-10.42c-11.51-11.32 19-31.87 30.9-3.29 2.61 20.89 2.68 22.81 2.61 31.99-.03 3.26-.14-88.59 0-100.54 7.26-6.11 15.3-14.08 31.33.65.38 8.88 0 94.01 0 94.01l.65-53.53s28.73-7.18 29.38 5.22-.65 41.13-.65 41.13l1.31-39.17s22.35-4.76 31.49 10.25c-.04 19.63-.77 35.94-.77 35.94s-.08-1.69.92-32.91c.65 0 11.44-4.15 21.24 4.99 2.61 14.36.65 73.77.65 73.77s-.16 16.32-15.01 32.64c-4.16 18.69-4.25 29.3-4.25 29.3z" stroke="#000" stroke-linejoin="round"/>
+  <path d="m581.26 360.68s.18-11.57.16-16.57c3.59.08 80.3.12 88.26.16-.08 6.2.28 19.1.28 19.1z" stroke="#000"/>
+  <path d="m589.14 352.29-.29 8.83 5.42.52-.35 8.54 62.37 1.79.46-8.19 5.48-.29-.23-11.37-72.88.18z" stroke="#fff"/>
+ </g>
+</svg>
